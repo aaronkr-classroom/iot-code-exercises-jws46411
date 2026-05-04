@@ -11,4 +11,4 @@ Repository for code and exercises
 
 ## 8장 실습 파일
 
-[ 8-1 LINK ] (https://wokwi.com/projects/463046789243545601)
+[ 8-1 LINK ](https://wokwi.com/projects/463046789243545601)
